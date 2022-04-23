@@ -1,1 +1,1 @@
-This is a landing page project to put my CSS skills into practice. 
+This is a landing page about black holes. Its purpose is to put my CSS skills into practice. 
