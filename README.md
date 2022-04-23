@@ -1,1 +1,1 @@
-# landing-page
+This is a landing page project to put my CSS skills into practice. 
