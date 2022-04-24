@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+    padding: 10px 150px 0 150px;
+    align-items: center;
+}
+
+h3 {
+    color: white;
+}
+
+a {
+    color: rgb(220, 220, 220);
+    text-decoration: none;
+    padding-left: 20px;
+}
