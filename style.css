@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Verdana, Arial, Helvetica, sans-serif;
+
 }
 
 .header {
@@ -20,4 +21,32 @@ a {
     color: rgb(220, 220, 220);
     text-decoration: none;
     padding-left: 20px;
+}
+
+.introduction {
+    display: flex;
+    background-color: #1F2937;
+    padding: 10px 150px 0 150px;
+    align-items: center;
+}
+
+.left-intro {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding-right: 40px;
+}
+
+img {
+    display: flex;
+    flex: 1;
+}
+
+h1 {
+    color: white;
+}
+
+.intro-text {
+    color: rgb(220, 220, 220);
+    font-size: 90%;
 }
