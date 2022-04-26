@@ -37,9 +37,11 @@ a {
     padding-right: 40px;
 }
 
-img {
+.image {
     display: flex;
     flex: 1;
+    width: 50%;
+    height: auto;
 }
 
 h1 {
