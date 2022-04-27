@@ -86,3 +86,19 @@ h1 {
     color: #252525;
     align-self: flex-end;
 }
+
+.newsletter {
+    justify-content: center;
+    height: 200px;
+}
+
+.newsletter-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 90px;
+    width: 100%;
+    background-color: blue;
+    padding: 0 40px;
+    border-radius: 10px;
+}
